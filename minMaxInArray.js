@@ -20,6 +20,10 @@ for (i = 0; i < A.length; i++) {
     }
 }
 
+console.log(min, max);
+console.log("tests for gitflow");
 console.log('max=', max);
 console.log('min=', min);
-console.log("tests for gitflow");
+console.log(min, max, "both results");
+console.log("release branches");
+
