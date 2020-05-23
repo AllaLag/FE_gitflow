@@ -25,4 +25,5 @@ console.log("tests for gitflow");
 console.log('max=', max);
 console.log('min=', min);
 console.log(min, max, "both results");
+console.log("release branches");
 
